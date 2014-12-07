@@ -1,7 +1,7 @@
 {
   "name": "gobble-relative-sourcemaps",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for gobble to make sourcemaps relative to the project root",
   "homepage": "https://github.com/evs-chris/gobble-relative-sourcemaps",
   "author": { "name": "Chris Reeves" },
